@@ -14,7 +14,7 @@
 - Try to move duck and collect small ducks on the sea as much as you can, to get more rewards.
 ## Project setup <a name = "Project-setup"></a>
 - Clone the repository
-  - git clone https://github.com/asmaaadel0/Graphics_Project
+  - git clone https://github.com/asmaaadel0/The-way-to-Home
 - Build the project
 - Run this Command
   - .\bin\GAME_APPLICATION.exe
